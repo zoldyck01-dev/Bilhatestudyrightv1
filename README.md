@@ -16,9 +16,9 @@ We believe that technology should not only make tasks easier but also help peopl
 
 01. INTRODUCTION
 
-What is BIL Study?
+What is bilhatestudyright 
 
-BIL Study is an independent digital platform created under the BIL initiative.
+bilhatestudyright is an independent digital platform created under the BIL initiative.
 
 The platform focuses on three important areas:
 
@@ -28,9 +28,9 @@ The platform focuses on three important areas:
 
 BIL Study is developed with the idea that every student deserves access to a simple, practical, and comfortable digital workspace.
 
-Whether you are studying for an examination, organizing assignments, preparing academic materials, or developing new skills, BIL Study aims to support your everyday learning journey.
+Whether you are studying for an examination, organizing assignments, preparing academic materials, or developing new skills, bilhatestudyright aims to support your everyday learning journey.
 
-Why BIL Study?
+Why bilhatestudyright 
 
 Modern students often use different applications to manage their academic activities.
 
